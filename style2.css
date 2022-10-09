@@ -1,0 +1,11 @@
+#titulo{
+    text-align: center;
+}
+
+#btnRegistro{
+    text-align: center;
+}
+
+.login{
+    justify-content: flex-end;
+}
