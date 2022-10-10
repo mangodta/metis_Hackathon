@@ -2,8 +2,11 @@
 
 Project Name: Charities Dao
 
+A Dapp that Brings transparency to how foundations like the red cross are using the money donated. Login w unstoppable domains.
+
+
 Repo-link   : https://github.com/mangodta/metis_Hackathon
-Live-link: 
+Live-link   : https://metis.manggo.tech 
 
 Contact:  Miguel Castellanos
 Email: miguelcastellanos2000@gmail.com
