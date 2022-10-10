@@ -2,10 +2,10 @@
 import UAuth from '@uauth/js'
 
 const uauth = new UAuth({
-    clientID: "426f70d3-8c40-4d02-baea-37ff317bc16d",
-    redirectUri: "http://localhost:3000",
-    scope: "openid wallet"
-  })
+  clientID: "426f70d3-8c40-4d02-baea-37ff317bc16d",
+  redirectUri: "http://127.0.0.1",
+  scope: "openid wallet"
+})
 
   uauth.user()
   .then((user) => {
