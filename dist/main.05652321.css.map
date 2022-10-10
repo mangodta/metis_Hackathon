@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAQA","sources":["Desktop/metis_Hackathon/style2.css"],"sourcesContent":["#titulo{\r\n    text-align: center;\r\n}\r\n\r\n#btnRegistro{\r\n    text-align: center;\r\n}\r\n\r\n.login{\r\n    justify-content: flex-end;\r\n}"],"names":[],"version":3,"file":"main.05652321.css.map","sourceRoot":"/__parcel_source_root/"}
